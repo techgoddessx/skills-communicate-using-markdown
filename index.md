@@ -6,3 +6,6 @@
 ###### Header 6
 This file shows the 6 types of headers.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
+``` javascript
+var myVar = "Hello, world!";
+```
